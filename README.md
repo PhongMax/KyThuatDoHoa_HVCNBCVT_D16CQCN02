@@ -1,5 +1,7 @@
 # KyThuatDoHoa_HVCNBCVT_D16CQCN02
 Đồ án kết thúc môn Kỹ thuật Đồ họa nhóm 9 lớp D16CQCN02  
+# Demo
+<a href="https://youtu.be/FfhBSVG91-0">Xem video tại đây!!!</a>
 ## Thành viên
 | Họ & Tên  | MSSV| Lớp|
 | ------------- | ------------- |----------|
